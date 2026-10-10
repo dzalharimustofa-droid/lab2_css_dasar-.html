@@ -2,7 +2,7 @@ Praktikum 3: CSS Dasar - Pemrograman Web
 
 Repositori ini berisi laporan praktikum untuk mata kuliah Pemrograman Web di Universitas Pelita Bangsa, materi Praktikum 3: CSS Dasar.
 
-Dibuat oleh: Agung Nugroho (Modul Praktikum) / Dikerjakan oleh mahasiswa.
+Dibuat oleh: Agung Nugroho (Modul Praktikum) / Dikerjakan oleh dzal hari mustofa
 
 🎯 Tujuan Praktikum
 
